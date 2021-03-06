@@ -28,6 +28,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:switches
+LIBS:SAP-clock-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -602,7 +604,7 @@ Wire Wire Line
 Wire Wire Line
 	4900 4400 5150 4400
 Wire Wire Line
-	6350 5550 4900 5550
+	4900 5550 6350 5550
 Wire Wire Line
 	7950 4300 7950 4500
 Connection ~ 7950 4400
@@ -611,7 +613,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 4300 6550 4300
 Wire Wire Line
-	6350 4500 6350 5550
+	6350 5500 6350 4500
 Wire Wire Line
 	6350 4500 6550 4500
 Wire Notes Line
