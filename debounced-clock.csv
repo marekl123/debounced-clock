@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C2,C4,C6,C7";"C_1206_HandSoldering";5;"0.01uF";;;
+2;"C3";"C_1206_HandSoldering";1;"1uF";;;
+3;"C5";"C_1206_HandSoldering";1;"0.1uF";;;
+4;"P1,P7";"Pin_Header_Straight_1x02_Pitch2.54mm";2;"POWER";;;
+5;"P2";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"POT";;;
+6;"P3";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"STEP";;;
+7;"P6";"Pin_Header_Straight_1x02_Pitch2.54mm";1;"LED";;;
+8;"R1,R2,R5,R6,R3";"R_1206_HandSoldering";5;"1K";;;
+9;"R4";"R_1206_HandSoldering";1;"1M";;;
+10;"R7";"R_1206_HandSoldering";1;"220";;;
+11;"U1,U4,U5";"SOIC-8-N";3;"NE555";;;
+12;"P4";"Pin_Header_Straight_1x03_Pitch2.54mm";1;"SWITCH";;;
+13;"P5";"Pin_Header_Straight_1x01_Pitch2.54mm";1;"HALT";;;
+14;"REF**,REF**,REF**,REF**";"MountingHole_3.2mm_M3";4;"MountingHole_3.2mm_M3";;;
+15;"U2,U3";"SOIC-14_N";2;"7400";;;
+16;"REF***";"OSHW-Symbol_6.7x6mm_Copper";1;"OSHW-Symbol_6.7x6mm_Copper";;;
